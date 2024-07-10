@@ -15,7 +15,7 @@ function About() {
       <Tittle tittle="About" />
 
       <div className=' flex items-center py-2 gap-20 sm:flex-col'>
-        <img src={require('./home/about.png')} className='h-[50vh] py-5' />
+        <img src={require('./home/portfolioimg.jpeg')} className='h-[50vh] py-5' />
         <div className='flex flex-col gap-5 sm:text-3xl'>  <p className='text-white '>
           Heyy, my name is Akhil sood ,I enjoy creating things that live on internet my interest in web devlopment Started back in 2021 when i decided to editing custome Tumber Themes it tought me lot about html and css
         </p>
