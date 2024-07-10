@@ -7,7 +7,7 @@ import Projects from '../../Components/Projects'
 import Contact from '../../Components/Contact'
 import Footer from '../../Components/Footer'
 import Sidebar from '../../Components/sidebar'
-import { Link } from 'react-router-dom'
+
 
 
 function Home() {
